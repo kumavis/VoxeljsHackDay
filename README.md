@@ -8,3 +8,5 @@ Suggested Projects
 =================
 1. UI package
 1. IRC integration
+1. closer Minecraft integration - load minecraft worlds
+1. voxeljs as a data visualizer (like http://archiveroom.net/)
