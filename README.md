@@ -1,4 +1,11 @@
 VoxeljsHackDay
 ==============
 
-A non-code repo for organizing a Voxel.js Hack Day
+A non-code repo for organizing Voxel.js Hack Day
+
+
+Suggested Projects
+=================
+1) UI package
+
+1) IRC integration
