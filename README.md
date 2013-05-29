@@ -22,4 +22,7 @@ Suggested Projects
 1. IRC integration
 1. closer Minecraft integration - load minecraft worlds
 1. voxeljs as a data visualizer (like http://archiveroom.net/)
-1. Documenting the API (party time)
+1. Documenting the core API (party time)
+1. in-browser Package Management for voxel-creator
+2. Critter builder - AI builder + voxel modeler
+3. Biome-based Terrain generation
