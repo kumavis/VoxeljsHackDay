@@ -1,8 +1,7 @@
 VoxeljsHackDay
-June 9th 2013 (Sunday) @ MochaLeaf in SOMA, SF
 ==============
 
-This is a non-code repo for organizing Voxel.js Hack Day
+June 9th 2013 (Sunday) @ MochaLeaf in SOMA, SF
 
 
 Suggested Projects
