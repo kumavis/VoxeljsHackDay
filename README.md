@@ -3,6 +3,18 @@ VoxeljsHackDay
 
 June 9th 2013 (Sunday) @ MochaLeaf in SOMA, SF
 
+## Description
+
+[voxel.js](http://voxeljs.com/) is a collection of open source projects that make it easy to roll your own Minecraft inspired game, all in the the browser using HTML5. You can learn more about the project by checking out [this tech talk](https://www.youtube.com/watch?f&v=8gM3xMObEz4).
+
+This hackathon is for anyone that wants to:
+
+- Learn about 3D programming with HTML5 (beginner friendly)
+- Learn how to use NPM, Node.js and Github to collaborate with the voxel.js open source community
+- Make a game with voxel.js
+- Write a new module for voxel.js
+- Use voxel.js in the classroom, to teach kids how to code
+- Meet other web developers that are interested in voxel based games
 
 Suggested Projects
 =================
