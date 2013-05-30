@@ -2,6 +2,7 @@ VoxeljsHackDay
 ==============
 
 June 9th 2013 (Sunday) 10:30-16:00 @ MochaLeaf in SOMA, SF
+
 [sign up](http://voxeljs.eventbrite.com/) and come hack with us!
 
 ## Description
