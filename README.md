@@ -20,6 +20,8 @@ This hackathon is for anyone that wants to:
 
 Suggested Projects
 =================
+1. Transparent textures - drawing the blocks behind them
+2. Water - flow, swimming
 1. UI package
 1. IRC integration
 1. closer Minecraft integration - load minecraft worlds
