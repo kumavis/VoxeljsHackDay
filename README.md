@@ -20,11 +20,13 @@ This hackathon is for anyone that wants to:
 
 Suggested Projects
 =================
-1. Transparent textures - drawing the blocks behind them
-2. Water - flow, swimming
-1. IRC integration
 1. Documenting the core API (party time)
-1. voxeljs as a data visualizer (like http://archiveroom.net/)
+1. Transparent textures (water, glass) - drawing the blocks behind them
+2. Water - flow, swimming/bouyancy
+1. IRC integration
+2. UI-based block-type/material manager, upload + manage textures, add new block types
+3. Inventory + toolbelt customizer
+1. voxeljs as a data visualizer (like http://archiveroom.net/) or file-browser (http://www.youtube.com/watch?v=dFUlAQZB9Ng)
 1. in-browser Package Management for [voxel-creator](http://voxel-creator.jit.su/)
 2. Critter builder - AI builder + [voxel-creature](https://github.com/substack/voxel-creature) + [voxel-painter](https://github.com/maxogden/voxel-painter)
 3. Biome-based Terrain generation
