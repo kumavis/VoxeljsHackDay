@@ -20,35 +20,35 @@ This hackathon is for anyone that wants to:
 
 ## Resources
 
-Voxel.js website: http://voxeljs.com
-Write voxel.js apps in your browser: http://creator.voxeljs.com
-Find voxel modules: https://npmjs.org/search?q=voxel
-Design a voxel creature: http://voxelbuilder.com/
-Voxel.js development how-to screencast (OS X): http://www.youtube.com/watch?v=khWOLOL2SzA
-Voxel.js logos: http://voxeljs.com/voxeljs-logos.png
-Basics of Three.js: http://fhtr.org/BasicsOfThreeJS/
-Have an idea? Ask a question or discuss things at https://github.com/voxel/issues
-BlockPlot: Voxel.js hosting service (still in beta): http://blockplot.com
+- Voxel.js website: http://voxeljs.com
+- Write voxel.js apps in your browser: http://creator.voxeljs.com
+- Find voxel modules: https://npmjs.org/search?q=voxel
+- Design a voxel creature: http://voxelbuilder.com/
+- Voxel.js development how-to screencast (OS X): http://www.youtube.com/watch?v=khWOLOL2SzA
+- Voxel.js logos: http://voxeljs.com/voxeljs-logos.png
+- Basics of Three.js: http://fhtr.org/BasicsOfThreeJS/
+- Have an idea? Ask a question or discuss things at https://github.com/voxel/issues
+- BlockPlot: Voxel.js hosting service (still in beta): http://blockplot.com
 
 ## Repositories that you are encouraged to hack on
 
-P2P 2 player multiplayer: https://github.com/maxogden/ludum-dare-26
-Node.js multiplayer server: https://github.com/maxogden/voxel-server and client: https://github.com/maxogden/voxel-client
-Voxel walk animation: https://github.com/flyswatter/voxel-walk
-Load a minecraft world: https://github.com/maxogden/mca2js
-Minecraft items: https://github.com/maxogden/minecraft-blockinfo
-Store voxel worlds in IndexedDB: https://github.com/maxogden/voxel-level
-Voxel virus (with a minimal voxel water demo): https://github.com/shama/voxel-virus
-Voxel 3D bulk selections: https://github.com/maxogden/voxel-select
-https://github.com/maxogden/gifblocks
-Voxel GIF animation studio: https://github.com/maxogden/gifblocks
-Implement a voxel monster loader for: https://github.com/maxogden/voxel-mobs
-3D City Loader: https://github.com/maxogden/voxel-city
-Player physics and movement (needs some tweaking): https://github.com/maxogden/voxel-physical, https://github.com/maxogden/kb-controls, https://github.com/maxogden/voxel-player and https://github.com/chrisdickinson/voxel-control/blob/master/index.js
-Voxel drone: https://github.com/shama/voxel-drone
-Voxel script gun: https://github.com/maxogden/voxel-script-gun
-Mobile/touch controls: https://github.com/voxel/issues/issues/2
-Voxel world function: https://github.com/maxogden/voxel-world-function
+- P2P 2 player multiplayer: https://github.com/maxogden/ludum-dare-26
+- Node.js multiplayer server: https://github.com/maxogden/voxel-server and client: https://github.com/maxogden/voxel-client
+- Voxel walk animation: https://github.com/flyswatter/voxel-walk
+- Load a minecraft world: https://github.com/maxogden/mca2js
+- Minecraft items: https://github.com/maxogden/minecraft-blockinfo
+- Store voxel worlds in IndexedDB: https://github.com/maxogden/voxel-level
+- Voxel virus (with a minimal voxel water demo): https://github.com/shama/voxel-virus
+- Voxel 3D bulk selections: https://github.com/maxogden/voxel-select
+- https://github.com/maxogden/gifblocks
+- Voxel GIF animation studio: https://github.com/maxogden/gifblocks
+- Implement a voxel monster loader for: https://github.com/maxogden/voxel-mobs
+- 3D City Loader: https://github.com/maxogden/voxel-city
+- Player physics and movement (needs some tweaking): https://github.com/maxogden/voxel-physical, https://github.com/maxogden/kb-controls, https://github.com/maxogden/voxel-player and https://github.com/chrisdickinson/voxel-control/blob/master/index.js
+- Voxel drone: https://github.com/shama/voxel-drone
+- Voxel script gun: https://github.com/maxogden/voxel-script-gun
+- Mobile/touch controls: https://github.com/voxel/issues/issues/2
+- Voxel world function: https://github.com/maxogden/voxel-world-function
 
 ## New Project Ideas
 
