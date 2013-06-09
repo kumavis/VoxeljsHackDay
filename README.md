@@ -25,6 +25,7 @@ This hackathon is for anyone that wants to:
 - Find voxel modules: https://npmjs.org/search?q=voxel
 - Design a voxel creature: http://voxelbuilder.com/
 - Voxel.js development how-to screencast (OS X): http://www.youtube.com/watch?v=khWOLOL2SzA
+- Voxel.js development how-to (article): https://gist.github.com/maxogden/5147486
 - Voxel.js logos: http://voxeljs.com/voxeljs-logos.png
 - Basics of Three.js: http://fhtr.org/BasicsOfThreeJS/
 - Have an idea? Ask a question or discuss things at https://github.com/voxel/issues
