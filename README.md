@@ -28,6 +28,7 @@ This hackathon is for anyone that wants to:
 - Voxel.js development how-to (article): https://gist.github.com/maxogden/5147486
 - Voxel.js logos: http://voxeljs.com/voxeljs-logos.png
 - Basics of Three.js: http://fhtr.org/BasicsOfThreeJS/
+- Great book on artistic/algorithmic coding: http://natureofcode.com/
 - Have an idea? Ask a question or discuss things at https://github.com/voxel/issues
 - BlockPlot: Voxel.js hosting service (still in beta): http://blockplot.com
 
@@ -51,6 +52,7 @@ This hackathon is for anyone that wants to:
 - Mobile/touch controls: https://github.com/voxel/issues/issues/2
 - Voxel world function: https://github.com/maxogden/voxel-world-function
 - Real Voxel Physics: https://github.com/timoxley/voxel-real-physics
+- Minecraft Multiplayer Bot Visualizer: https://github.com/vogonistic/mineflayer-voxel
 
 ## New Project Ideas
 
@@ -64,3 +66,7 @@ This hackathon is for anyone that wants to:
 8. in-browser Package Management for [voxel-creator](http://voxel-creator.jit.su/) using NPM. See https://github.com/grncdr/browserify-as-a-service/issues
 9. Critter builder + AI builder + [voxel-critter](https://github.com/shama/voxel-critter) + [voxel-painter](https://github.com/maxogden/voxel-painter)
 10. Biome-based Terrain generation
+11. Castle defense multiplayer game!
+12. Music visualization/VJ software e.g. https://twitter.com/voxeljs/status/304420023550738432
+13. Get Voxel.js running on the Raspberry Pi via Firefox OS http://www.philipp-wagner.com/blog/2013/04/firefox-os-for-raspberry-pi-now-available/
+
