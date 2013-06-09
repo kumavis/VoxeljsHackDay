@@ -32,6 +32,7 @@ This hackathon is for anyone that wants to:
 - Have an idea? Ask a question or discuss things at https://github.com/voxel/issues
 - BlockPlot: Voxel.js hosting service (still in beta): http://blockplot.com
 - How our voxel rendering works: http://0fps.wordpress.com/2012/06/30/meshing-in-a-minecraft-game/
+- Learn about shaders: http://www.html5rocks.com/en/tutorials/webgl/shaders/ and examples at: https://www.shadertoy.com/
 
 ## Repositories that you are encouraged to hack on
 
@@ -55,12 +56,14 @@ This hackathon is for anyone that wants to:
 - Real Voxel Physics: https://github.com/timoxley/voxel-real-physics
 - Minecraft Multiplayer Bot Visualizer: https://github.com/vogonistic/mineflayer-voxel
 - Voxel color post processors: http://hughsk.github.io/voxel-colorist/demo/
+- Day/Night/Moon cycles: https://github.com/shama/voxel-sky
+- Portal Gun: https://github.com/shama/voxel-portal-gun
 
 ## New Project Ideas
 
 1. Documenting the [core API](https://github.com/maxogden/voxel-engine#api)
 2. Transparent textures (water, glass) - drawing the blocks behind them
-3. Water - flow, swimming/bouyancy
+3. Water - flow, swimming/buoyancy
 4. IRC integration
 5. UI-based block-type/material manager, upload + manage textures, add new block types
 6. Inventory + toolbelt customizer
@@ -71,6 +74,10 @@ This hackathon is for anyone that wants to:
 11. Castle defense multiplayer game!
 12. Music visualization/VJ software e.g. https://twitter.com/voxeljs/status/304420023550738432
 13. Get Voxel.js running on the Raspberry Pi via Firefox OS http://www.philipp-wagner.com/blog/2013/04/firefox-os-for-raspberry-pi-now-available/
+14. Bones, IK solver. Apply animations to meshes preferably BVH
+15. Voxel base strategy games or chess
+16. Leveling, experience or points system
+17. Player/item stats (hp, str, stam, dex... think DnD, MTG, etc)
 
 ## For more modules check out these voxel.js contributors on NPM
 
