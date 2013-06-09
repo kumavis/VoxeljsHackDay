@@ -18,15 +18,47 @@ This hackathon is for anyone that wants to:
 - Use voxel.js in the classroom, to teach kids how to code
 - Meet other web developers that are interested in voxel based games
 
-Suggested Projects
-=================
-1. Documenting the core API (party time)
-1. Transparent textures (water, glass) - drawing the blocks behind them
-2. Water - flow, swimming/bouyancy
-1. IRC integration
-2. UI-based block-type/material manager, upload + manage textures, add new block types
-3. Inventory + toolbelt customizer
-1. voxeljs as a data visualizer (like http://archiveroom.net/) or file-browser (http://www.youtube.com/watch?v=dFUlAQZB9Ng)
-1. in-browser Package Management for [voxel-creator](http://voxel-creator.jit.su/)
-2. Critter builder - AI builder + [voxel-creature](https://github.com/substack/voxel-creature) + [voxel-painter](https://github.com/maxogden/voxel-painter)
-3. Biome-based Terrain generation
+## Resources
+
+Voxel.js website: http://voxeljs.com
+Write voxel.js apps in your browser: http://creator.voxeljs.com
+Find voxel modules: https://npmjs.org/search?q=voxel
+Design a voxel creature: http://voxelbuilder.com/
+Voxel.js development how-to screencast (OS X): http://www.youtube.com/watch?v=khWOLOL2SzA
+Voxel.js logos: http://voxeljs.com/voxeljs-logos.png
+Basics of Three.js: http://fhtr.org/BasicsOfThreeJS/
+Have an idea? Ask a question or discuss things at https://github.com/voxel/issues
+BlockPlot: Voxel.js hosting service (still in beta): http://blockplot.com
+
+## Repositories that you are encouraged to hack on
+
+P2P 2 player multiplayer: https://github.com/maxogden/ludum-dare-26
+Node.js multiplayer server: https://github.com/maxogden/voxel-server and client: https://github.com/maxogden/voxel-client
+Voxel walk animation: https://github.com/flyswatter/voxel-walk
+Load a minecraft world: https://github.com/maxogden/mca2js
+Minecraft items: https://github.com/maxogden/minecraft-blockinfo
+Store voxel worlds in IndexedDB: https://github.com/maxogden/voxel-level
+Voxel virus (with a minimal voxel water demo): https://github.com/shama/voxel-virus
+Voxel 3D bulk selections: https://github.com/maxogden/voxel-select
+https://github.com/maxogden/gifblocks
+Voxel GIF animation studio: https://github.com/maxogden/gifblocks
+Implement a voxel monster loader for: https://github.com/maxogden/voxel-mobs
+3D City Loader: https://github.com/maxogden/voxel-city
+Player physics and movement (needs some tweaking): https://github.com/maxogden/voxel-physical, https://github.com/maxogden/kb-controls, https://github.com/maxogden/voxel-player and https://github.com/chrisdickinson/voxel-control/blob/master/index.js
+Voxel drone: https://github.com/shama/voxel-drone
+Voxel script gun: https://github.com/maxogden/voxel-script-gun
+Mobile/touch controls: https://github.com/voxel/issues/issues/2
+Voxel world function: https://github.com/maxogden/voxel-world-function
+
+## New Project Ideas
+
+1. Documenting the [core API](https://github.com/maxogden/voxel-engine#api)
+2. Transparent textures (water, glass) - drawing the blocks behind them
+3. Water - flow, swimming/bouyancy
+4. IRC integration
+5. UI-based block-type/material manager, upload + manage textures, add new block types
+6. Inventory + toolbelt customizer
+7. voxeljs as a data visualizer (like http://archiveroom.net/) or file-browser (http://www.youtube.com/watch?v=dFUlAQZB9Ng)
+8. in-browser Package Management for [voxel-creator](http://voxel-creator.jit.su/) using NPM. See https://github.com/grncdr/browserify-as-a-service/issues
+9. Critter builder + AI builder + [voxel-critter](https://github.com/shama/voxel-critter) + [voxel-painter](https://github.com/maxogden/voxel-painter)
+10. Biome-based Terrain generation
