@@ -50,6 +50,7 @@ This hackathon is for anyone that wants to:
 - Voxel script gun: https://github.com/maxogden/voxel-script-gun
 - Mobile/touch controls: https://github.com/voxel/issues/issues/2
 - Voxel world function: https://github.com/maxogden/voxel-world-function
+- Real Voxel Physics: https://github.com/timoxley/voxel-real-physics
 
 ## New Project Ideas
 
