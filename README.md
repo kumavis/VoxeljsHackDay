@@ -31,6 +31,7 @@ This hackathon is for anyone that wants to:
 - Great book on artistic/algorithmic coding: http://natureofcode.com/
 - Have an idea? Ask a question or discuss things at https://github.com/voxel/issues
 - BlockPlot: Voxel.js hosting service (still in beta): http://blockplot.com
+- How our voxel rendering works: http://0fps.wordpress.com/2012/06/30/meshing-in-a-minecraft-game/
 
 ## Repositories that you are encouraged to hack on
 
@@ -53,6 +54,7 @@ This hackathon is for anyone that wants to:
 - Voxel world function: https://github.com/maxogden/voxel-world-function
 - Real Voxel Physics: https://github.com/timoxley/voxel-real-physics
 - Minecraft Multiplayer Bot Visualizer: https://github.com/vogonistic/mineflayer-voxel
+- Voxel color post processors: http://hughsk.github.io/voxel-colorist/demo/
 
 ## New Project Ideas
 
@@ -70,3 +72,11 @@ This hackathon is for anyone that wants to:
 12. Music visualization/VJ software e.g. https://twitter.com/voxeljs/status/304420023550738432
 13. Get Voxel.js running on the Raspberry Pi via Firefox OS http://www.philipp-wagner.com/blog/2013/04/firefox-os-for-raspberry-pi-now-available/
 
+## For more modules check out these voxel.js contributors on NPM
+
+- https://npmjs.org/~mikolalysenko
+- https://npmjs.org/~maxogden
+- https://npmjs.org/~shama
+- https://npmjs.org/~substack
+- https://npmjs.org/~hughsk
+- https://npmjs.org/~chrisdickinson
